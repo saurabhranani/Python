@@ -1,0 +1,5 @@
+id	name	eng	math	sci	result
+1	sau	23	34	54	37
+2	dff	44	43	66	51
+3	sss	99	99	99	99
+4	dds	100	10	100	70
